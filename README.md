@@ -1,3 +1,6 @@
+This application is from a Udemy Course to learn React and Redux together. It is a 5 Day Forecasting tool by city.
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
